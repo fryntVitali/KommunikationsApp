@@ -48,11 +48,32 @@ npx serve .
 # http://localhost:8080
 ```
 
-### Option 3: Als PWA installieren
-1. App im Chrome/Edge öffnen (über lokalen Server)
+### Option 3: Online nutzen (GitHub Pages)
+Die App ist live verfügbar unter:
+
+**https://fryntvitali.github.io/KommunikationsApp/**
+
+Einfach im Browser öffnen — funktioniert auf jedem Gerät.
+
+### Option 4: Als PWA installieren
+
+**Android (Chrome):**
+1. App im Chrome öffnen
+2. Auf das Installations-Symbol in der Adressleiste tippen
+3. „Installieren" bestätigen
+
+**iPhone / iPad (Safari):**
+1. App in Safari öffnen
+2. Teilen-Button tippen (Quadrat mit Pfeil)
+3. „Zum Home-Bildschirm" wählen
+4. „Hinzufügen" tippen
+
+**Windows / Mac (Chrome/Edge):**
+1. App im Browser öffnen
 2. Auf das Installations-Symbol in der Adressleiste klicken
 3. „Installieren" bestätigen
-4. App erscheint als eigenständige Anwendung
+
+Die App funktioniert danach auch **offline** — alle Daten werden lokal gespeichert.
 
 ## 📁 Projektstruktur
 
