@@ -134,7 +134,6 @@ const App = (() => {
         card.addEventListener('click', goBack);
         return card;
     }
-    }
 
     function createAddCard() {
         const card = document.createElement('div');
