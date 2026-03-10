@@ -83,8 +83,24 @@ body {
     flex-shrink: 0;
 }
 
+.offline-btn {
+    width: auto;
+    padding: 0 10px;
+    gap: 4px;
+}
+
 .offline-icon {
     font-size: 1.3rem;
+}
+
+.offline-label {
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+}
+
+#btn-offline-info.cache-ready {
+    background: rgba(22, 163, 74, 0.3);
 }
 
 .header-btn:hover {
